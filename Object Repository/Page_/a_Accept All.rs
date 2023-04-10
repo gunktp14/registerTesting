@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Accept All</name>
+   <tag></tag>
+   <elementGuidId>015cdad4-c13c-4b8a-adc3-fada837f80b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='wt-cli-accept-all-btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#wt-cli-accept-all-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5f266ff-318a-4a74-a939-00ad0f9e9514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wt-cli-accept-all-btn</value>
+      <webElementGuid>49af37aa-87fd-458c-8377-fc8295f2b9cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>80ee6d25-3b07-4b55-8a2e-bd0a93ab24d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button</value>
+      <webElementGuid>38f4c669-ba6b-4580-ab74-b1bd4257692b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept All</value>
+      <webElementGuid>17f19caa-2a57-4a9c-bfa8-b1d83fd43fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wt-cli-accept-all-btn&quot;)</value>
+      <webElementGuid>915b06ee-16df-4d1e-924d-2f838bc4ca37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='wt-cli-accept-all-btn']</value>
+      <webElementGuid>f37674fe-24ee-45e4-a55e-48a0ac943471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cookie-law-info-bar']/span/div/div[2]/a[2]</value>
+      <webElementGuid>0351ad60-4fad-4028-9c80-813b13773e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Accept All')]</value>
+      <webElementGuid>1918ff2a-9747-4b55-ae71-1aabf7ebd078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Settings'])[1]/following::a[1]</value>
+      <webElementGuid>fdff5985-0bc9-4db1-9cfe-12dd6a6d28b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='see policy'])[1]/following::a[2]</value>
+      <webElementGuid>8226eae1-466e-4dbe-bd75-1fbb189b912d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage consent'])[1]/preceding::a[1]</value>
+      <webElementGuid>34e3a019-6098-4805-a35e-05e68db978e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::a[1]</value>
+      <webElementGuid>dd360ab1-3bb1-4645-80dd-2e644e50192a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept All']/parent::*</value>
+      <webElementGuid>cfb0fe6a-08d5-4316-810c-556ced5384da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>89e27c49-5f78-4467-bb7f-7cad03d0c69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'wt-cli-accept-all-btn' and (text() = 'Accept All' or . = 'Accept All')]</value>
+      <webElementGuid>f3706aad-afc3-42f8-8a06-e9973d7b8240</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

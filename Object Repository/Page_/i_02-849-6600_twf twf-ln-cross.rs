@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_02-849-6600_twf twf-ln-cross</name>
+   <tag></tag>
+   <elementGuidId>85936f18-ab56-4f3d-88e4-f99e27a3371a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.twf.twf-ln-cross</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dd267841-b6b8-4cf7-94be-5c771f102319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>twf twf-ln-cross</value>
+      <webElementGuid>2e044582-9bb2-41f1-bf04-550a3577bac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-673 um-page-register um-page-loggedout kyt-layout kyt-layout--wide kyt-layout-responsive kyt-layout--topnav kyt-layout--topnav-stacked container-animated kyt-unscrollable&quot;]/div[@class=&quot;kyt-item js-item-modal kyt-modal kyt-modal--fade active&quot;]/div[@class=&quot;kyt-modal-close js-close&quot;]/i[@class=&quot;twf twf-ln-cross&quot;]</value>
+      <webElementGuid>ec07bedc-840a-48c2-b89a-68dfc7fa665e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>598a6b46-fd86-4e4d-850a-15adc4eddf63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

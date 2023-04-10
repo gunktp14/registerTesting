@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__um-field-radio-state</name>
+   <tag></tag>
+   <elementGuidId>2cd2f8f6-1d05-4ebb-a0a8-33144038ab8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='um_field_667_drug_allergy_history']/div[2]/label[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.um-field-radio.um-field-half.right > span.um-field-radio-state</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06531025-bc3c-41d7-b34b-8286c19e0ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>um-field-radio-state</value>
+      <webElementGuid>c7fcf05b-8a2c-4e90-b1e8-dec4059fc2a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;um_field_667_drug_allergy_history&quot;)/div[@class=&quot;um-field-area&quot;]/label[@class=&quot;um-field-radio  um-field-half right&quot;]/span[@class=&quot;um-field-radio-state&quot;]</value>
+      <webElementGuid>3d8ef90c-f7e1-4518-8d13-93d240a30e10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='um_field_667_drug_allergy_history']/div[2]/label[2]/span</value>
+      <webElementGuid>695c26f7-8441-49f2-a67a-3cc45ceff4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ไม่ทราบ'])[2]/following::span[1]</value>
+      <webElementGuid>6825e610-14c9-4835-b3cc-95201e484a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ประวัติการแพ้ยา*'])[1]/following::span[3]</value>
+      <webElementGuid>7fe2f160-776e-450e-ae73-5bf7c651e9a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ไม่เคยแพ้'])[1]/preceding::span[1]</value>
+      <webElementGuid>a03a0655-a2eb-4df9-8261-28d29ab1c997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='เคยแพ้ยา'])[1]/preceding::span[3]</value>
+      <webElementGuid>942777c8-2eab-4b87-a5ea-39ee0f937580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span</value>
+      <webElementGuid>e7b1407f-ba9c-4fb0-bfc1-c9e71495ec5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

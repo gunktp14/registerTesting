@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__um-icon-android-radio-button-off_1</name>
+   <tag></tag>
+   <elementGuidId>2c870d13-b2ab-42ef-9c39-5ae31f5a6762</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='um_field_667_congenital_disease']/div[2]/label[2]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#um_field_667_congenital_disease > div.um-field-area > label.um-field-radio.um-field-half.right > span.um-field-radio-state > i.um-icon-android-radio-button-off</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3e0bb86d-0e82-4962-8df9-56ab1bd1189d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>um-icon-android-radio-button-off</value>
+      <webElementGuid>c1af3c40-1825-40d8-b12f-196a7727cad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;um_field_667_congenital_disease&quot;)/div[@class=&quot;um-field-area&quot;]/label[@class=&quot;um-field-radio  um-field-half right&quot;]/span[@class=&quot;um-field-radio-state&quot;]/i[@class=&quot;um-icon-android-radio-button-off&quot;]</value>
+      <webElementGuid>e2bd014c-edb9-4923-8e07-b5f11b7fe581</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='um_field_667_congenital_disease']/div[2]/label[2]/span/i</value>
+      <webElementGuid>9c4dda57-d779-4401-bf6c-e5f53d4f00da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/label[2]/span/i</value>
+      <webElementGuid>f2ba2e47-7a2c-47da-bde6-eff96775a4aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
